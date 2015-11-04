@@ -1,4 +1,4 @@
 # SnapC-
-Just logic for the game on C++
+Just logic for the game Snap (C++)
 
 Created by Natalia K.
